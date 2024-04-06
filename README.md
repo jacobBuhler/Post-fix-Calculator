@@ -1,7 +1,7 @@
 # Post-fix-Calculator
 Post-fix stack implementation of a calculator
 This project is a simple yet powerful C++ implementation of a post-fix (reverse Polish notation) calculator. Utilizing a custom dynamic stack, it efficiently evaluates expressions where operators follow their operands, eliminating the need for parentheses to denote operation precedence.
-
+# Features
 Features
 Support for Basic Mathematical Operations: The calculator can perform addition, subtraction, multiplication, division, and exponentiation.
 Error Handling: It includes basic error handling for invalid expressions, such as division by zero or malformed inputs.
